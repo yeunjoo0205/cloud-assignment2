@@ -1,4 +1,4 @@
-GitHub: https://github.com/사용자명/ledger-api · Render: https://<서비스>.onrender.com/docs
+GitHub: https://github.com/yeunjoo0205/cloud-assignment2 · Render: https://cloud-assignment2.onrender.com/docs
 
 # 가계부 API (FastAPI + Supabase PostgreSQL)
 
